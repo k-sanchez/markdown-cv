@@ -5,10 +5,12 @@ title: Kevin Sánchez CV
 # Kevin I. Sánchez
 Licenciado en Genética
 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 <div id="webaddress">
   <a href="kevin.imanol.sanchez@gmail.com">kevin.imanol.sanchez@gmail.com</a> | <a href="ksanchez@cenpat-conicet.gob.ar">ksanchez@cenpat-conicet.gob.ar</a>
   
-  http://i.imgur.com/tXSoThF.png<a href="https://twitter.com/kevin_i_sanchez">@kevin_i_sanchez</a> | http://i.imgur.com/0o48UoR.png<a href="https://github.com/k-sanchez">github.com/k-sanchez</a>
+  [![alt text][1.1]][1]<a href="https://twitter.com/kevin_i_sanchez">@kevin_i_sanchez</a> | [![alt text][6.1]][6]<a href="https://github.com/k-sanchez">github.com/k-sanchez</a>
 </div>
 
 
