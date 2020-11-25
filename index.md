@@ -12,13 +12,14 @@ Licenciado en Genética
 
 <div id="webaddress">
   <a href="kevin.imanol.sanchez@gmail.com">kevin.imanol.sanchez@gmail.com</a> | <a href="ksanchez@cenpat-conicet.gob.ar">ksanchez@cenpat-conicet.gob.ar</a>
-  
-  
-  [1.1]<a href="https://twitter.com/kevin_i_sanchez">@kevin_i_sanchez</a> | [6.1]<a href="https://github.com/k-sanchez">github.com/k-sanchez</a>
+</div>  
+
+<div id="webaddress">
+  <a href="https://twitter.com/kevin_i_sanchez">Twitter</a> | <a href="https://github.com/k-sanchez">GitHub</a>
 </div>
 
 
-## Afiliación
+## AFILIACIÓN 
 
 <div id="webaddress">
   <a href="https://ipeec.conicet.gov.ar/">Instituto Patagónico para el Estudio de Ecosistemas Continentales (IPEEC-CONICET)</a>
@@ -26,7 +27,7 @@ Licenciado en Genética
 
 
 
-### Intereses de investigación
+### INTERESES DE INVESTIGACIÓN
 
   - Filogenética
   
@@ -35,7 +36,7 @@ Licenciado en Genética
   - Bioinformática
 
 
-## Educación
+## EDUCACIÓN
 
 `2019 - presente`
 __Universidad Nacional de Córdoba.__
@@ -44,7 +45,7 @@ __Universidad Nacional de Córdoba.__
 __Universidad Nacional de Misiones__
 
 
-## Cursos de posgrado
+## CURSOS DE POSGRADO 
 
 `2020`
 **Phylogenomics**
@@ -74,19 +75,19 @@ __Universidad Nacional de Misiones__
 **Escritura de artı́culos cientı́ficos y tesis**
 
 
-## Publicaciones
+## PUBLICACIONES
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Revistas científicas
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+  - Vrdoljak J, **Sanchez KI**, Arreola-Ramos R, Diaz Huesa EG, Villagra A, Avila LJ, Morando M, 2020. Testing repeatability, measurement error and species differentiation when using geometric morphometrics on complex shapes: a case study of Patagonian lizards of the genus Liolaemus (Squamata: Liolaemini). Biol. J. Linn. Soc. 113. https://doi.org/10.1093/biolinnean/blaa079
 
-`1669`
-Lectiones opticæ.
+  - **Sánchez KI**, Avila LJ, Sites Jr JW, Morando M, 2020. An integrative multi-approach workflow resolves species limits in the southernmost members of the Liolaemus kingii group (Squamata: Liolaemini). bioRxiv 49. https://doi.org/10.1101/2020.07.02.185025
 
-etc. etc. etc.
+### Capı́tulos de libro
+  
+  - Avila LJ, Gonzalez Marı́n A, Troncoso-Palacios J, **Sánchez KI**, Perez CHF, Morando M, 2020. Naming the diversity: taxonomy of current species of Patagonian lizards, en: Morando, M., Avila, L.J. (Eds.), Lizards of Patagonia. Springer International Publishing. https://doi.org/10.1007/978-3-030-42752-8_7
 
 ### Presentaciones en congresos y jornadas científico-tecnológicas
 
