@@ -6,8 +6,7 @@ title: Kevin Sánchez's CV
 Licenciado en Genética
 
 <div id="webaddress">
-<a href="kevin.imanol.sanchez@gmail.com">kevin.imanol.sanchez@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="kevin.imanol.sanchez@gmail.com">kevin.imanol.sanchez@gmail.com</a> | <a href="ksanchez@cenpat-conicet.gob.ar">ksanchez@cenpat-conicet.gob.ar</a>
 </div>
 
 
