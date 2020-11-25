@@ -13,7 +13,8 @@ Licenciado en Genética
 <div id="webaddress">
   <a href="kevin.imanol.sanchez@gmail.com">kevin.imanol.sanchez@gmail.com</a> | <a href="ksanchez@cenpat-conicet.gob.ar">ksanchez@cenpat-conicet.gob.ar</a>
   
-  [![alt text][1.1]][1]<a href="https://twitter.com/kevin_i_sanchez">@kevin_i_sanchez</a> | [![alt text][6.1]][6]<a href="https://github.com/k-sanchez">github.com/k-sanchez</a>
+  
+  [1.1]<a href="https://twitter.com/kevin_i_sanchez">@kevin_i_sanchez</a> | [6.1]<a href="https://github.com/k-sanchez">github.com/k-sanchez</a>
 </div>
 
 
