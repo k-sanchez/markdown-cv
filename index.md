@@ -116,7 +116,7 @@ XVI Simpósio de Citogenética e Genética de Peixes. Cuiabá, Brasil
 IX Jornadas Cientı́fico-Tecnológicas de la Facultad de Ciencias Exactas, Quı́micas y Naturales de la Universidad Nacional de Misiones. Misiones, Argentina
 
 
-## Participación en proyectos de investigación
+## PARTICIPACIÓN EN PROYECTOS DE INVESTIGACIÓN
 
 `2018 - 2019`
 __Comparación de métodos explı́citos de delimitación de especies e historia evolutiva de lagartijas patagónicas del grupo Liolaemus kingii__
@@ -140,7 +140,7 @@ Rol: becario
 Entidad financiadora: Universidad Nacional de Misiones (16/Q630)
 
 
-## Becas obtenidas
+## BECAS OBTENIDAS
 
 `2018 - 2022`
 __Beca interna doctoral CONICET__
@@ -171,7 +171,7 @@ Proyecto: Análisis citogenético en una población de Moenkhausia dichroura Kne
 
 Un enfoque integrativo para inferir límites de especie en miembros australes del grupo Liolaemus kingii (Squamata: Liolaemini). Herpetología (ciclo 2020). Universidad Nacional de la Patagonia “San Juan Bosco.”
 
-## Aptitudes técnicas
+## APTITUDES TÉCNICAS
 
 ### Idiomas
 
