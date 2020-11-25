@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Kevin Sánchez's CV
+title: Kevin Sánchez CV
 ---
 # Kevin I. Sánchez
 Licenciado en Genética
@@ -10,18 +10,21 @@ Licenciado en Genética
 </div>
 
 
-## Currently
+## Afiliación
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+<div id="webaddress">
+  <a href="https://ipeec.conicet.gov.ar/">Instituto Patagónico para el Estudio de Ecosistemas Continentales (IPEEC-CONICET)</a>
+</div>
 
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Intereses de investigación
+
+  - Filogenética
+  
+  - Delimitación de especies
+  
+  - Bioinformática
 
 
 ## Education
