@@ -3,8 +3,8 @@ layout: cv
 title: Kevin Sánchez CV
 ---
 <!--iconos-->
-[1.1]: http://i.imgur.com/tXSoThF.png
-[6.1]: http://i.imgur.com/0o48UoR.png
+[twitter]: http://i.imgur.com/tXSoThF.png
+[github]: http://i.imgur.com/0o48UoR.png
 <!--iconos-->
 
 # Kevin I. Sánchez
@@ -15,7 +15,7 @@ Licenciado en Genética
 </div>  
 
 <div id="webaddress">
-  <a href="https://twitter.com/kevin_i_sanchez">Twitter</a> | <a href="https://github.com/k-sanchez">GitHub</a>
+  ![twitter]<a href="https://twitter.com/kevin_i_sanchez">Twitter</a> | ![github]<a href="https://github.com/k-sanchez">GitHub</a>
 </div>
 
 
@@ -81,13 +81,13 @@ __Universidad Nacional de Misiones__
 
 ### Revistas científicas
 
-  - Vrdoljak J, **Sanchez KI**, Arreola-Ramos R, Diaz Huesa EG, Villagra A, Avila LJ, Morando M, 2020. Testing repeatability, measurement error and species differentiation when using geometric morphometrics on complex shapes: a case study of Patagonian lizards of the genus Liolaemus (Squamata: Liolaemini). Biol. J. Linn. Soc. 113. https://doi.org/10.1093/biolinnean/blaa079
+  - Vrdoljak J, **Sanchez KI**, Arreola-Ramos R, Diaz Huesa EG, Villagra A, Avila LJ, Morando M, 2020. Testing repeatability, measurement error and species differentiation when using geometric morphometrics on complex shapes: a case study of Patagonian lizards of the genus Liolaemus (Squamata: Liolaemini). [Biol. J. Linn. Soc. 113](https://doi.org/10.1093/biolinnean/blaa079)
 
-  - **Sánchez KI**, Avila LJ, Sites Jr JW, Morando M, 2020. An integrative multi-approach workflow resolves species limits in the southernmost members of the Liolaemus kingii group (Squamata: Liolaemini). bioRxiv 49. https://doi.org/10.1101/2020.07.02.185025
+  - **Sánchez KI**, Avila LJ, Sites Jr JW, Morando M, 2020. An integrative multi-approach workflow resolves species limits in the southernmost members of the Liolaemus kingii group (Squamata: Liolaemini). [bioRxiv 49](https://doi.org/10.1101/2020.07.02.185025)
 
 ### Capı́tulos de libro
   
-  - Avila LJ, Gonzalez Marı́n A, Troncoso-Palacios J, **Sánchez KI**, Perez CHF, Morando M, 2020. Naming the diversity: taxonomy of current species of Patagonian lizards, en: Morando, M., Avila, L.J. (Eds.), Lizards of Patagonia. Springer International Publishing. https://doi.org/10.1007/978-3-030-42752-8_7
+  - Avila LJ, Gonzalez Marı́n A, Troncoso-Palacios J, **Sánchez KI**, Perez CHF, Morando M, 2020. Naming the diversity: taxonomy of current species of Patagonian lizards, en: Morando, M., Avila, L.J. (Eds.), [Lizards of Patagonia. Springer International Publishing](https://doi.org/10.1007/978-3-030-42752-8_7)
 
 ### Presentaciones en congresos y jornadas científico-tecnológicas
 
