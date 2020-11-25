@@ -184,8 +184,9 @@ Un enfoque integrativo para inferir límites de especie en miembros australes de
   - `R`: intermedio
   - `Python`: básico
   - `Rev`: básico
+
 <!-- ### Footer
 
-Última actualización: Noviembre 2020 -->
+Última actualización: Noviembre 2020-->
 
 
