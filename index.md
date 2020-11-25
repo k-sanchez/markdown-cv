@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kevin Sánchez's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kevin I. Sánchez
+Licenciado en Genética
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="kevin.imanol.sanchez@gmail.com">kevin.imanol.sanchez@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
