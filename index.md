@@ -25,7 +25,12 @@ Licenciado en Genética
   <a href="https://ipeec.conicet.gov.ar/">Instituto Patagónico para el Estudio de Ecosistemas Continentales (IPEEC-CONICET)</a>
 </div>
 
+### Membresías
 
+  - Asociación Herpetológica Argentina (AHA)
+  
+  - The Systematics Association 
+  
 
 ### INTERESES DE INVESTIGACIÓN
 
